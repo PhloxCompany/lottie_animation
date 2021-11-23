@@ -2,15 +2,30 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Cover
+![lottie animation cover](./assets/cover.jpg?raw=true "lottie animation cover")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Development Setup
+Clone the repository and run the following commands:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```commandline
+flutter pub get
+flutter run
+```
+
+## Screen Shot
+![lottie animation gif](./assets/lottie_animation.gif?raw=true "lottie animation gif")
+
+### codes
+```dart
+Lottie.asset('assets/lottie/dance.json')
+```
+
+## Links
+
+* [Website](https://phloxcompany.com)
+* [Youtube channel](https://www.youtube.com/channel/UC6sTNoJi_G_O5lNzc6JgLew)
+* [Twitter](https://twitter.com/phloxcompany)
+* [Instagram](https://instagram.com/phloxcompany)
